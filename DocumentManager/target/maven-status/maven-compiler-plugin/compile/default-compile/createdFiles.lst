@@ -1,0 +1,3 @@
+net\documents\docmanager\dao\DocumentDAO.class
+net\documents\docmanager\model\Document.class
+net\documents\docmanager\controller\DocumentController.class
